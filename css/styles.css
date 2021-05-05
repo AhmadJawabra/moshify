@@ -539,6 +539,10 @@ a {
   border-radius: 5px;
 }
 
+.callout-signup {
+  transform: translateY(5rem);
+}
+
 .callout--primary {
   background: var(--color-primary);
   color: white;
